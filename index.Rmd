@@ -2,6 +2,7 @@
 title: "MayuriJain's website"
 output: html_document
 date: "2023-03-27"
+theme: spacelab
 ---
 
 ```{r setup, include=FALSE}
